@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	margin: 0;
+	width: 100dvw;
+	height: 100dvh;
+}
+
+.popover::part(content) {
+	padding: 0;
+}
