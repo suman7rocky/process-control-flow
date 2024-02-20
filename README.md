@@ -54,4 +54,4 @@ Note: Make sure you have installed cf on your computer
 **Step 5 :**
 Now all we need to run is `cf push` . It will take a few minutes and it should return you a status of you application. Now go to you account and check if its running.
 
-## Happy hacking😎😎
+## Happy coding😎😎
